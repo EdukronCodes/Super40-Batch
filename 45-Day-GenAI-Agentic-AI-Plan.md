@@ -1,5 +1,9 @@
 # 90-Day Learning Plan: Generative AI (45 Days) + Agentic AI (45 Days)
 
+
+Architect at Scale. Build for Millions. Lead with Vision.
+
+
 Two complete 45-day plans: first Generative AI, then Agentic AI. Each is structured day-by-day with clear objectives, activities, and notes.
 
 ---
@@ -173,3 +177,4 @@ Two complete 45-day plans: first Generative AI, then Agentic AI. Each is structu
 5. **Adjust pace** — Combine light days or split heavy ones (e.g., multi-agent week) as needed.
 
 Good luck with your 90-day Gen AI and Agentic AI journey.
+
