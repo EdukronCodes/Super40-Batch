@@ -1,21 +1,6 @@
 # 🚀 Gen AI & Agentic AI Application – CTO Program  
 ## Enterprise Product Building & Large-Scale AI Systems Leadership
 
----
-
-# 🌍 This Is Not a Syllabus-Based Course
-
-This program is built around:
-
-- Product engineering at enterprise scale  
-- Large-scale AI application architecture  
-- Distributed system design for Gen AI  
-- Agentic AI orchestration platforms  
-- Production deployment & scaling strategy  
-
-This is a **CTO-level execution program** focused on building and scaling real AI systems.
-
----
 
 # 🎯 Program Vision
 
